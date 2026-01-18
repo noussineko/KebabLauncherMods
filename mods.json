@@ -1,6 +1,12 @@
 {
   "mods": [
-    { "name": "mod1.jar", "url": "https://raw.githubusercontent.com/TonPseudo/KebabLauncherMods/main/mod1.jar" },
-    { "name": "mod2.jar", "url": "https://raw.githubusercontent.com/TonPseudo/KebabLauncherMods/main/mod2.jar" }
+    {
+      "name": "create-1.20.1-6.0.4.jar",
+      "url": "https://raw.githubusercontent.com/noussineko/KebabLauncherMods/main/create-1.20.1-6.0.4.jar"
+    },
+    {
+      "name": "cc-tweaked-1.20.1-forge-1.116.2.jar",
+      "url": "https://raw.githubusercontent.com/noussineko/KebabLauncherMods/main/cc-tweaked-1.20.1-forge-1.116.2.jar"
+    }
   ]
 }

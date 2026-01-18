@@ -7,6 +7,26 @@
     {
       "name": "cc-tweaked-1.20.1-forge-1.116.2.jar",
       "url": "https://raw.githubusercontent.com/noussineko/KebabLauncherMods/main/cc-tweaked-1.20.1-forge-1.116.2.jar"
+    },
+    {
+      "name": "OptiFine_1.20.1_HD_U_I6.jar",
+      "url": "https://raw.githubusercontent.com/noussineko/KebabLauncherMods/main/OptiFine_1.20.1_HD_U_I6.jar"
+    },
+    {
+      "name": "ironchest-1.20.1-14.4.4.jar",
+      "url": "https://raw.githubusercontent.com/noussineko/KebabLauncherMods/main/ironchest-1.20.1-14.4.4.jar"
+    },
+    {
+      "name": "many_more_ores_and_crafts-forge-1.20.1-1.1.3-1.jar",
+      "url": "https://raw.githubusercontent.com/noussineko/KebabLauncherMods/main/many_more_ores_and_crafts-forge-1.20.1-1.1.3-1.jar"
+    },
+    {
+      "name": "journeymap-1.20.1-5.10.3-forge.jar",
+      "url": "https://raw.githubusercontent.com/noussineko/KebabLauncherMods/main/journeymap-1.20.1-5.10.3-forge.jar"
+    },
+    {
+      "name": "antixray-forge-1.4.6+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/noussineko/KebabLauncherMods/main/antixray-forge-1.4.6+1.20.1.jar"
     }
   ]
 }

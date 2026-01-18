@@ -27,6 +27,10 @@
     {
       "name": "antixray-forge-1.4.6+1.20.1.jar",
       "url": "https://raw.githubusercontent.com/noussineko/KebabLauncherMods/main/antixray-forge-1.4.6+1.20.1.jar"
+    },
+    {
+      "name": "SimpleLogin-1.20.1-1.0.2-all.jar",
+      "url": "https://raw.githubusercontent.com/noussineko/KebabLauncherMods/main/SimpleLogin-1.20.1-1.0.2-all.jar"
     }
   ]
 }

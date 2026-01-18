@@ -1,0 +1,6 @@
+{
+  "mods": [
+    { "name": "mod1.jar", "url": "https://raw.githubusercontent.com/TonPseudo/KebabLauncherMods/main/mod1.jar" },
+    { "name": "mod2.jar", "url": "https://raw.githubusercontent.com/TonPseudo/KebabLauncherMods/main/mod2.jar" }
+  ]
+}
